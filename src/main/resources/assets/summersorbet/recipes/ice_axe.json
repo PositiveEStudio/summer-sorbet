@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "$$ ",
+    "$# ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "summersorbet:ice_axe"
+  }
+}

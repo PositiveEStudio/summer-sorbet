@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $ ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "summersorbet:stone_ice_breaking_fork"
+  }
+}

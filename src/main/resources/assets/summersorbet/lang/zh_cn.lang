@@ -1,0 +1,15 @@
+item.summersorbet.woodicebreakingfork.name=木碎冰叉
+item.summersorbet.stoneicebreakingfork.name=石碎冰叉
+item.summersorbet.ironicebreakingfork.name=铁碎冰叉
+item.summersorbet.goldicebreakingfork.name=金碎冰叉
+item.summersorbet.diamondicebreakingfork.name=钻石碎冰叉
+item.summersorbet.icesword.name=冰剑
+item.summersorbet.icepickaxe.name=冰镐
+item.summersorbet.iceaxe.name=冰斧
+item.summersorbet.iceshovel.name=冰铲
+item.summersorbet.icehoe.name=冰锄
+item.summersorbet.sorbet.name=冰沙
+item.summersorbet.littleice.name=小冰块
+tile.summersorbet.blueice.name=蓝冰
+tile.summersorbet.compressedblueice.name=压缩蓝冰
+itemGroup.summersorbet=夏日冰沙

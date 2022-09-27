@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "summersorbet",
+    "name": "Summer Sorbet",
+    "description": "Summer Sorbet Mod test",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://gitee.com/xu_fly/summer-sorbet_test",
+    "updateUrl": "",
+    "authorList": [
+      "Xufly"
+    ],
+    "credits": "The Xufly,this mod's maker and tester",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

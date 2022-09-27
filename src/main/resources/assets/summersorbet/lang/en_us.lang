@@ -1,0 +1,15 @@
+item.summersorbet.woodicebreakingfork.name=Wood Ice Breaking Frok
+item.summersorbet.stoneicebreakingfork.name=Stone Ice Breaking Fork
+item.summersorbet.ironicebreakingfork.name=Iron Ice Breaking Fork
+item.summersorbet.goldicebreakingfork.name=Gold Ice Breaking Fork
+item.summersorbet.diamondicebreakingfork.name=Diamond Ice Breaking Fork
+item.summersorbet.icesword.name=Ice Sword
+item.summersorbet.icepickaxe.name=Ice Pickaxe
+item.summersorbet.iceaxe.name=Ice Axe
+item.summersorbet.iceshovel.name=Ice Spade
+item.summersorbet.icehoe.name=Ice Hoe
+item.summersorbet.sorbet.name=Sorbet
+item.summersorbet.littleice.name=Little Ice
+tile.summersorbet.blueice.name=Blue Ice
+tile.summersorbet.compressedblueice.name= Compressed Blue Ice
+itemGroup.summersorbet=Summer Sorbet
