@@ -1,4 +1,4 @@
-package xufly.summersorbet;
+package p_e.summersorbet;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;

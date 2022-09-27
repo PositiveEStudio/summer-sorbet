@@ -1,4 +1,4 @@
-package xufly.summersorbet.item;
+package p_e.summersorbet.item;
 
 import com.google.common.collect.Sets;
 import net.minecraft.block.Block;
@@ -7,7 +7,7 @@ import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemTool;
-import xufly.summersorbet.block.BlockRegistryHandler;
+import p_e.summersorbet.block.BlockRegistryHandler;
 
 import java.util.Set;
 

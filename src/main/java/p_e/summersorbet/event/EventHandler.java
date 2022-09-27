@@ -1,4 +1,4 @@
-package xufly.summersorbet.event;
+package p_e.summersorbet.event;
 
 import net.minecraftforge.event.entity.EntityJoinWorldEvent;
 import net.minecraftforge.fml.common.Mod;

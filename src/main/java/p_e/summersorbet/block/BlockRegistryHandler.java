@@ -1,4 +1,4 @@
-package xufly.summersorbet.block;
+package p_e.summersorbet.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
@@ -8,7 +8,7 @@ import net.minecraftforge.event.world.BlockEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.registries.IForgeRegistry;
-import xufly.summersorbet.item.ItemRegistryHandler;
+import p_e.summersorbet.item.ItemRegistryHandler;
 
 @Mod.EventBusSubscriber
 public class BlockRegistryHandler

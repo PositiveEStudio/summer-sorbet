@@ -1,4 +1,4 @@
-package xufly.summersorbet.item;
+package p_e.summersorbet.item;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.registries.IForgeRegistry;
-import xufly.summersorbet.block.BlockRegistryHandler;
+import p_e.summersorbet.block.BlockRegistryHandler;
 
 @Mod.EventBusSubscriber
 public class ItemRegistryHandler

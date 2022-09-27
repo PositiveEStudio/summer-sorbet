@@ -1,8 +1,8 @@
-package xufly.summersorbet.item;
+package p_e.summersorbet.item;
 
 import net.minecraft.item.ItemPickaxe;
-import xufly.summersorbet.SummerSorbet;
-import xufly.summersorbet.creativetab.TabSummerSorbet;
+import p_e.summersorbet.SummerSorbet;
+import p_e.summersorbet.creativetab.TabSummerSorbet;
 
 public class ItemIcePickaxe extends ItemPickaxe
 {

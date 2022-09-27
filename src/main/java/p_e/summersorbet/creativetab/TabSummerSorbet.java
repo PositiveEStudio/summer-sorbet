@@ -1,9 +1,9 @@
-package xufly.summersorbet.creativetab;
+package p_e.summersorbet.creativetab;
 
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
-import xufly.summersorbet.item.ItemRegistryHandler;
+import p_e.summersorbet.item.ItemRegistryHandler;
 
 public class TabSummerSorbet extends CreativeTabs
 {
